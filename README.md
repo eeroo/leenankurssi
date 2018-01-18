@@ -1,3 +1,2 @@
 # leenankurssi
 palautukset
-juupajuu
